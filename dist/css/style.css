@@ -1,0 +1,56 @@
+/*
+ * It is advised not to edit the smartadmin_production.css
+ * as this will override any changes you make in the 
+ * later versions of this theme. 
+ * 
+ * We advise that you use use this CSS to override 
+ * SmartAdmin styles. 
+ * 
+ * Rename the stylesheet to whatever your liking so it will stay
+ * unique to you with each update of SmartAdmin.
+ */
+
+/*
+ * INDEX
+ * 
+ * - HTML
+ * - BODY
+ * - CUSTOM STYLES
+ */
+
+.drop{
+	border:2px dashed #bbb;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	padding:10px;
+}
+#b64data{
+	width:100%;
+}
+			
+ .error, .information {
+
+	color: #FF0000;
+	text-align: center;
+	padding: 3px;
+	background-color: #FFFF99;
+	border-radius:2px;
+	-moz-border-radius:2px;
+	box-shadow: 0 0 3px rgba(230, 230, 230, 1);
+	-webkit-box-shadow: 0 0 3px rgba(230, 230, 230, 1);
+	-moz-box-shadow: 0 0 3px rgba(230, 230, 230, 1);
+}
+
+.information {
+
+	color: #0c7cd5 ;
+	text-align: center;
+	padding: 3px;
+	background-color: #FFFF99;
+	border-radius:2px;
+	-moz-border-radius:2px;
+	box-shadow: 0 0 3px rgba(230, 230, 230, 1);
+	-webkit-box-shadow: 0 0 3px rgba(230, 230, 230, 1);
+	-moz-box-shadow: 0 0 3px rgba(230, 230, 230, 1);
+}
